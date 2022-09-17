@@ -1,0 +1,15 @@
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Automacao_Sensores\Simulacao_Sensores\bin\Debug\net6.0\Simulacao_Sensores.exe
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Automacao_Sensores\Simulacao_Sensores\bin\Debug\net6.0\Simulacao_Sensores.deps.json
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Automacao_Sensores\Simulacao_Sensores\bin\Debug\net6.0\Simulacao_Sensores.runtimeconfig.json
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Automacao_Sensores\Simulacao_Sensores\bin\Debug\net6.0\Simulacao_Sensores.dll
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Automacao_Sensores\Simulacao_Sensores\bin\Debug\net6.0\Simulacao_Sensores.pdb
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Automacao_Sensores\Simulacao_Sensores\obj\Debug\net6.0\Simulacao_Sensores.csproj.AssemblyReference.cache
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Automacao_Sensores\Simulacao_Sensores\obj\Debug\net6.0\Simulacao_Sensores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Automacao_Sensores\Simulacao_Sensores\obj\Debug\net6.0\Simulacao_Sensores.AssemblyInfoInputs.cache
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Automacao_Sensores\Simulacao_Sensores\obj\Debug\net6.0\Simulacao_Sensores.AssemblyInfo.cs
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Automacao_Sensores\Simulacao_Sensores\obj\Debug\net6.0\Simulacao_Sensores.csproj.CoreCompileInputs.cache
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Automacao_Sensores\Simulacao_Sensores\obj\Debug\net6.0\Simulacao_Sensores.dll
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Automacao_Sensores\Simulacao_Sensores\obj\Debug\net6.0\refint\Simulacao_Sensores.dll
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Automacao_Sensores\Simulacao_Sensores\obj\Debug\net6.0\Simulacao_Sensores.pdb
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Automacao_Sensores\Simulacao_Sensores\obj\Debug\net6.0\Simulacao_Sensores.genruntimeconfig.cache
+C:\Users\Bruno Medina Pedroso\Documents\Projetos\C#\Console\Automacao_Sensores\Simulacao_Sensores\obj\Debug\net6.0\ref\Simulacao_Sensores.dll
